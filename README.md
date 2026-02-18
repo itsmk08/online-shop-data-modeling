@@ -168,28 +168,6 @@ These metrics demonstrate how transactional data can be transformed into actiona
 
 ---
 
-# 📂 Repository Structure
-```
-online-shop-data-modeling/
-│
-├── ddl/
-│   ├── oltp_schema.sql
-│   └── data_warehouse_schema.sql
-│
-├── dml/
-│   ├── etl_scripts.sql
-│   └── analytics_queries.sql
-│
-├── erd/
-│   └── relational_erd.png
-│
-├── star_schema/
-│   └── star_schema_design.png
-│
-└── README.md
-```
----
-
 # 🎯 Key Learnings
 
 - Designing normalized OLTP schemas
