@@ -70,6 +70,10 @@ A normalized transactional (OLTP) schema was designed with:
 
 This model supports operational transaction processing.
 
+## 📸 ER Diagram
+
+![online-shop-data](img/ER%20diagram.png)
+
 ---
 
 # ⭐ Phase 3: Dimensional Modeling (Star Schema)
@@ -109,6 +113,10 @@ Calendar breakdown supporting time-series analytics.
 
 ### `dim_payment`
 Payment method and transaction status for financial analysis.
+
+## 📸 Star Schema
+
+![online-shop-data](img/Star%20Schema.png)
 
 ---
 
