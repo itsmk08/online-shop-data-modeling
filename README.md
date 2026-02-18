@@ -1,5 +1,4 @@
 # 🛒 End-to-End Relational & Dimensional Data Modeling  
-## Online Shop 2024 – OLTP to Data Warehouse Implementation
 
 ---
 
