@@ -170,3 +170,44 @@ These metrics demonstrate how transactional data can be transformed into actiona
 
 # 📂 Repository Structure
 
+online-shop-data-modeling/
+│
+├── ddl/
+│ ├── oltp_schema.sql
+│ └── data_warehouse_schema.sql
+│
+├── dml/
+│ ├── etl_scripts.sql
+│ └── analytics_queries.sql
+│
+├── erd/
+│ └── relational_erd.png
+│
+├── star_schema/
+│ └── star_schema_design.png
+│
+└── README.md
+
+
+
+---
+
+# 🎯 Key Learnings
+
+- Designing normalized OLTP schemas
+- Converting relational models into dimensional star schemas
+- Defining fact table grain correctly
+- Implementing surrogate keys
+- Writing business-driven analytical SQL queries
+- Structuring scalable data warehouse architecture
+
+---
+
+# 🚀 Project Significance
+
+This project demonstrates the ability to:
+
+- Translate raw business data into structured database systems
+- Implement both transactional and analytical data models
+- Bridge data engineering and business analytics
+- Deliver insight-ready data infrastructure
